@@ -97,19 +97,19 @@ Estas transformaciones permitieron una interpretación más eficaz y una represe
 Durante el proceso de análisis y visualización de los datos del departamento de Recursos Humanos, se han obtenido diversas conclusiones y puntos clave que proporcionan una visión clara y valiosa del estado actual de la organización. A continuación, se resumen las conclusiones más destacadas:
 
 1. **Perfil Demográfico de la Organización**:
-   - Se observa una distribución más o menos equilibrada de empleados por género, lo cual puede indicar una política de igualdad de género efectiva en la empresa.
+   - Se observa una **distribución más o menos equilibrada de empleados** por género, lo cual puede indicar una política de igualdad de género efectiva en la empresa.
 
 2. **Estructura Salarial**:
-   - La mayoría de los empleados se encuentran en el rango salarial de 60,000 a 80,000, lo que puede sugerir una política de remuneración competitiva.
+   - La mayoría de los empleados se encuentran en el **rango salarial de 60,000 a 80,000**, lo que puede sugerir una política de remuneración competitiva.
 
 3. **Evaluación de Desempeño**:
-   - Se destaca que la mayoría de los empleados tienen una evaluación promedio en el rango de 7 a 8, indicando un nivel general de desempeño adecuado en la organización.
+   - Se destaca que la mayoría de los empleados tienen una evaluación promedio en el **rango de 7 a 8**, indicando un nivel general de desempeño adecuado en la organización.
 
 4. **Distribución por Edades**:
-   - La mayor concentración de empleados se encuentra en el rango de 30 a 40 años, lo que puede implicar una organización con una fuerza laboral relativamente joven.
+   - La mayor concentración de empleados se encuentra en el **rango de 30 a 40 años**, lo que puede implicar una organización con una fuerza laboral relativamente joven.
 
 5. **Análisis Geográfico**:
-   - A través del mapa interactivo, se puede identificar que ciertas regiones tienen una mayor densidad de empleados, lo que puede sugerir oportunidades de expansión en esas áreas.
+   - A través del mapa interactivo, se puede identificar que ciertas regiones tienen una mayor densidad de empleados, lo que puede sugerir **oportunidades de expansión** en esas áreas.
 
 Estas conclusiones proporcionan información valiosa que puede guiar la toma de decisiones estratégicas en el departamento de Recursos Humanos y en la organización en su conjunto. Es esencial tener en cuenta estas conclusiones al planificar estrategias futuras y mejorar la eficiencia y efectividad de la organización.
 
