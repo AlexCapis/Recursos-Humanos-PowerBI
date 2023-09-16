@@ -41,25 +41,25 @@ Antes de comenzar con este proyecto, es fundamental asegurarse de contar con los
 
 - **Power BI**: Este proyecto se desarrolla utilizando Power BI como la herramienta principal para la visualización de datos. Si aún no tienes Power BI instalado en tu sistema, puedes descargar la versión más reciente de Power BI Desktop haciendo clic [aquí](https://powerbi.microsoft.com/es-es/desktop/).
 
-- **Conjuntos de Datos**: Para poder llevar a cabo el análisis y las visualizaciones pertinentes, necesitarás disponer del conjunto de datos `Datos+Empleados.xlsx` disponible en la carpeta [data]() del repositorio
+- **Conjuntos de Datos**: Para poder llevar a cabo el análisis y las visualizaciones pertinentes, necesitarás disponer del conjunto de datos `Datos+Empleados.xlsx` disponible en la carpeta [data](https://github.com/AlexCapis/Recursos-Humanos-PowerBI/tree/main/data) del repositorio
 
 
 ## 📂 Estructura de carpetas
 
 Para una fácil navegación, he organizado el repositorio de la siguiente manera:
 
-- [data](): Contiene los archivos relacionados con los datos utilizados en el proyecto de Power BI.
+- [data](https://github.com/AlexCapis/Recursos-Humanos-PowerBI/tree/main/data): Contiene los archivos relacionados con los datos utilizados en el proyecto de Power BI.
 
     - `RECURSOS HUMANOS.pbix`: El archivo de Power BI que contiene el proyecto con las visualizaciones y el análisis.
     - `Datos+Empleados.xlsx`: El conjunto de datos original en formato Excel que se utiliza en el proyecto que alberga los países y continentes.
 
 
-- [docs](): Almacena documentos y recursos relacionados con la documentación del proyecto.
+- [docs](https://github.com/AlexCapis/Recursos-Humanos-PowerBI/tree/main/docs): Almacena documentos y recursos relacionados con la documentación del proyecto.
 
     - `images`: Una carpeta que almacena las imágenes y gráficos utilizados en el proyecto.
     - `Power+BI+Color+Theme+-+University+of+Melbourne.json`: Se trata de la plantilla empleada en el desarrollo del informe.
 
-- [notebooks](): Contiene archivos de cuadernos Jupyter relacionados con el proyecto de Power BI.
+- [notebooks](https://github.com/AlexCapis/Recursos-Humanos-PowerBI/tree/main/notebooks): Contiene archivos de cuadernos Jupyter relacionados con el proyecto de Power BI.
 
     - `explicacion_indicadores_mundiales.ipynb`: Un cuaderno que incluye una explicación detallada del proyecto.
 
