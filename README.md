@@ -1,6 +1,6 @@
 # 🌍 Desglosando Nuestra Fuerza Laboral con Power BI: Recursos Humanos en Acción 📊
 
-
+![Análisis de Sueldos](./docs/images/portada_recursos_humanos.png)
 
 #### 👤 Autor: [Alex Marzá Manuel](https://github.com/AlexCapis)
 
@@ -69,7 +69,10 @@ Para una fácil navegación, he organizado el repositorio de la siguiente manera
 
 Antes de sumergirse en los detalles, echa un vistazo a la demostración en video que te guiará a través de las funcionalidades clave de este proyecto en Power BI. ¡Haz clic en la imagen para ver el video!
 
-[![Demostración en Video](../docs/images/)]()
+<p align="center">
+  <img src="https://github.com/AlexCapis/Recursos-Humanos-PowerBI/raw/main/docs/clips/recursos_humanos.gif">
+</p>
+
 
 ## ⚙️ Configuración de los Datos
 
